@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FrontendMentor_tip_calculator/static/css/main.151ceedb.css",
-    "main.js": "/FrontendMentor_tip_calculator/static/js/main.9a773f38.js",
+    "main.css": "/FrontendMentor_tip_calculator/static/css/main.5db3f197.css",
+    "main.js": "/FrontendMentor_tip_calculator/static/js/main.8fb92d18.js",
     "static/js/787.ffafa49e.chunk.js": "/FrontendMentor_tip_calculator/static/js/787.ffafa49e.chunk.js",
     "static/media/logo.svg": "/FrontendMentor_tip_calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/FrontendMentor_tip_calculator/index.html",
-    "main.151ceedb.css.map": "/FrontendMentor_tip_calculator/static/css/main.151ceedb.css.map",
-    "main.9a773f38.js.map": "/FrontendMentor_tip_calculator/static/js/main.9a773f38.js.map",
+    "main.5db3f197.css.map": "/FrontendMentor_tip_calculator/static/css/main.5db3f197.css.map",
+    "main.8fb92d18.js.map": "/FrontendMentor_tip_calculator/static/js/main.8fb92d18.js.map",
     "787.ffafa49e.chunk.js.map": "/FrontendMentor_tip_calculator/static/js/787.ffafa49e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.151ceedb.css",
-    "static/js/main.9a773f38.js"
+    "static/css/main.5db3f197.css",
+    "static/js/main.8fb92d18.js"
   ]
 }
